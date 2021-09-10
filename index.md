@@ -40,6 +40,6 @@
     </table>
     <hr>
     <h3><a href="Contact me.html">Contact me</a></h3>
-    <h3><a href="C:\Users\Tariq Mohammad\Desktop\Programing\Course\hobies.html">Hobbies</a></h3>
+    <h3><a href="hobies.html">Hobbies</a></h3>
   </body>
 </html>
